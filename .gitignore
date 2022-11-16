@@ -1,0 +1,10 @@
+# IDE stuff
+.idea
+*.iml
+
+# build stuff
+target
+
+# python stuff
+__pycache__
+*.pyc
